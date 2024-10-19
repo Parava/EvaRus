@@ -11,7 +11,7 @@ new Swiper('.slider-review',{
     // почемуто не работает в правую сторону
 
     centeredSlides: true,
-    slidesPerView: 3.5,
+    slidesPerView: 2.5,
     speed: 500,
 
 });
